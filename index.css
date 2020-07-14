@@ -16,11 +16,6 @@ html, body {
 	font-size: 1.1em !important;
 }
 
-/*--Background Image--*/
-style, body {
-	background-image: ('C:/Users/nikit.sharma/Desktop/Projects/Queensland_Urban_Utilities/img/background.png');
-	} 
-
 /*---Media Queries --*/
 @media (max-width: 992px) {
 
